@@ -1,6 +1,9 @@
 # OpenHands 项目目录详解
 
 > **OpenHands** 是一个 AI 驱动的自动化软件开发平台（AI Software Engineer）。包含 Python 后端 (`openhands/`) 和 React 前端 (`frontend/`)，以及企业版模块 (`enterprise/`)。
+git add .
+git commit -m "feat: 更新"
+git push origin main
 
 ---
 

@@ -105,6 +105,8 @@ dependencies = [
   "uvicorn",
   "whatthepatch>=1.0.6",
   "zope-interface==7.2",
+  "datasets (>=4.8.5,<5.0.0)",
+  "evalplus (>=0.3.1,<0.4.0)",
 ]
 
 urls.Homepage = "https://github.com/OpenHands/OpenHands"
